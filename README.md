@@ -6,3 +6,4 @@ New Features to be added:
 2. Public Chat
 3. Private Chat
 4. kdmkdll
+4. Announcement
